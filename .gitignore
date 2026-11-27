@@ -1,0 +1,14 @@
+.env
+*.env
+!.env.example
+*token*.json
+*credentials*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+/logs/
+*.log
+*.csv
+*.db
+.DS_Store
